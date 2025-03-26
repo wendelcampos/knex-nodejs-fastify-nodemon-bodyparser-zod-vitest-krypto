@@ -68,10 +68,10 @@ Este projeto é uma API RESTful desenvolvida com Node.js. A aplicação permite 
 
 # RF - Regras Funcionais
 
-- [x] O usuario deve poder criar uma nova transaçaõ 
+- [x] O usuario deve poder criar uma nova transação
 - [x] O usuario deve poder obter um resumo da sua conta 
 - [x] O usuario deve poder listar todas transações que ja ocorreram
-- [x] O usuario deve poder visualizar uma transacao unica
+- [x] O usuario deve poder visualizar uma transação unica
 
 # RN - Regras de negocios
 
