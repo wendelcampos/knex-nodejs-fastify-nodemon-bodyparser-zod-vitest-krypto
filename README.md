@@ -22,10 +22,8 @@ Este projeto é uma API RESTful desenvolvida com Node.js. A aplicação permite 
     git clone https://github.com/seu-usuario/seu-repositorio.git
     ```
 2. Navegue até o diretório do projeto:
-    ```bash
-    cd 02-api-rest-nodejs
-    ```
-3. Instale as dependências:
+3. 
+4. Instale as dependências:
     ```bash
     npm install
     ```
